@@ -4,7 +4,6 @@
 
 Submitted by: **Aidan Goldstein**
 
-Time spent: **5** hours spent in total
 
 ## User Stories
 
